@@ -1,0 +1,216 @@
+Summary for .\jessica.jar
+Decompiled with CFR 0.152
+
+
+org.newdawn.slick.openal.WaveData
+----------------------------
+
+convertAudioBytes(byte[] boolean )
+  Unable to fully structure code
+
+
+org.newdawn.slick.openal.OggInputStream
+----------------------------
+
+getPageAndPacket()
+  Unable to fully structure code
+readPCM()
+  Unable to fully structure code
+
+
+org.newdawn.slick.openal.AiffData
+----------------------------
+
+convertAudioBytes(javax.sound.sampled.AudioFormat byte[] boolean )
+  Unable to fully structure code
+
+
+org.newdawn.slick.muffin.WebstartMuffin
+----------------------------
+
+loadFile(java.lang.String )
+  Unable to fully structure code
+
+
+optifine.PlayerItemParser
+----------------------------
+
+parseItemModel(com.google.gson.JsonObject )
+  Unable to fully structure code
+
+
+optifine.CustomColors
+----------------------------
+
+readSpawnEggColors(java.util.Properties java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+net.minecraft.util.math.Cartesian
+----------------------------
+
+next()
+  Unable to fully structure code
+
+
+net.minecraft.util.HttpUtil
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 10[DOLOOP]
+
+
+net.minecraft.tileentity.TileEntityBeacon
+----------------------------
+
+updateSegmentColors()
+  Unable to fully structure code
+
+
+net.minecraft.server.management.PlayerProfileCache
+----------------------------
+
+load()
+  Loose catch block
+save()
+  Loose catch block
+
+
+net.minecraft.server.MinecraftServer
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+net.minecraft.pathfinding.PathNavigateGround
+----------------------------
+
+getPathToPos(net.minecraft.util.math.BlockPos )
+  Unable to fully structure code
+
+
+net.minecraft.item.crafting.CraftingManager
+----------------------------
+
+func_192420_c()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK], 10[CATCHBLOCK], 1[TRYBLOCK], 11[CATCHBLOCK], 4[TRYBLOCK]], but top level block is 6[TRYBLOCK]
+
+
+net.minecraft.init.Killaura18_One_Million_Dollars
+----------------------------
+
+Killaura5()
+  Unable to fully structure code
+KillauraAAC2()
+  Unable to fully structure code
+
+
+net.minecraft.command.server.CommandScoreboard
+----------------------------
+
+joinTeam(net.minecraft.command.ICommandSender java.lang.String[] int net.minecraft.server.MinecraftServer )
+  Unable to fully structure code
+leaveTeam(net.minecraft.command.ICommandSender java.lang.String[] int net.minecraft.server.MinecraftServer )
+  Unable to fully structure code
+
+
+net.minecraft.command.CommandFill
+----------------------------
+
+execute(net.minecraft.server.MinecraftServer net.minecraft.command.ICommandSender java.lang.String[] )
+  Unable to fully structure code
+
+
+net.minecraft.client.renderer.texture.LayeredColorMaskTexture
+----------------------------
+
+loadTexture(net.minecraft.client.resources.IResourceManager )
+  Unable to fully structure code
+
+
+net.minecraft.client.gui.GuiTextField
+----------------------------
+
+getNthWordFromPosWS(int int boolean )
+  Unable to fully structure code
+
+
+net.minecraft.client.audio.SoundHandler
+----------------------------
+
+validateSoundResource(net.minecraft.client.audio.Sound net.minecraft.util.ResourceLocation )
+  Loose catch block
+  WARNING - bad return control flow
+
+
+net.minecraft.client.Minecraft
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+processKeyBinds()
+  Unable to fully structure code
+
+
+net.minecraft.block.state.BlockPistonStructureHelper
+----------------------------
+
+addBlockLine(net.minecraft.util.math.BlockPos net.minecraft.util.EnumFacing )
+  Unable to fully structure code
+
+
+net.minecraft.advancements.AdvancementManager
+----------------------------
+
+func_192777_a(java.util.Map<net.minecraft.util.ResourceLocation, net.minecraft.advancements.Advancement$Builder> )
+  Unable to fully structure code
+
+
+com.mysql.jdbc.StatementImpl
+----------------------------
+
+executeBatchInternal()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+com.mysql.jdbc.EscapeTokenizer
+----------------------------
+
+nextToken()
+  Unable to fully structure code
+
+
+com.mysql.jdbc.DatabaseMetaData
+----------------------------
+
+forEach(java.lang.String )
+  Loose catch block
+forEach(java.lang.String )
+  Loose catch block
+
+
+com.mysql.jdbc.ConnectionImpl
+----------------------------
+
+buildCollationMapping()
+  Loose catch block
+configureClientCharacterSet(boolean )
+  Unable to fully structure code
+execSQL(com.mysql.jdbc.StatementImpl java.lang.String int com.mysql.jdbc.Buffer int int boolean java.lang.String com.mysql.jdbc.Field[] boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK], 2[TRYBLOCK]], but top level block is 4[TRYBLOCK]
+getTransactionIsolation()
+  Unable to fully structure code
+initializePropsFromServer()
+  Unable to fully structure code
+isReadOnly(boolean )
+  Loose catch block
+loadServerVariables()
+  Loose catch block
+
+
+com.jcraft.jsch.ChannelSftp
+----------------------------
+
+glob_remote(java.lang.String )
+  Unable to fully structure code
